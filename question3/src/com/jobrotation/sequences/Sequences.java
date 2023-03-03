@@ -44,5 +44,13 @@ public class Sequences {
 			penultimo = num;	
 		}
 	}
+	
+	public void sequenceF(int quant) {
+		
+		int counter = 1;
+		while(counter < quant) {
+			
+		}
+	}
 
 }
